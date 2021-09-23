@@ -1,0 +1,13 @@
+Empleado -> 1 salario total => 69.0$  1999-12-23
+Empleado -> 2 salario total => 103.5$  2012-12-12
+Empleado -> 3 salario total => 105.0$  2012-12-12
+Empleado -> 4 salario total => 184.0$  1999-12-23
+Empleado -> 5 salario total => 103.5$  2012-12-12
+Empleado -> 6 salario total => 105.0$  2012-12-12
+Empleado -> 7 salario total => 69.0$  1999-12-23
+Empleado -> 8 salario total => 103.5$  2012-12-12
+Empleado -> 9 salario total => 105.0$  2012-12-12
+Empleado -> 10 salario total => 69.0$  1999-12-23
+Empleado -> 11 salario total => 103.5$  2012-12-12
+Empleado -> 12 salario total => 105.0$  2012-12-12
+Empleado -> 13 salario total => 105.0$  2012-12-12
